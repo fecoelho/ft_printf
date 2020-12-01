@@ -33,5 +33,3 @@ Então compile com o programa:
 ```console
 gcc -Wall -Werror -Wextra main.c libftprintf.a -I includes
 ```
-
-![GitHub top language](https://img.shields.io/github/languages/top/fecoelho/ft_printf) ![Lines of code](https://img.shields.io/tokei/lines/github/fecoelho/ft_printf)
