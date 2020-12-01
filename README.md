@@ -3,7 +3,7 @@ Because I'm tired of using putnbr and putstr
 
 ### ToC
 - [O que é o ft_printf?](#o-que---o-ft_printf)
-- Como usar:
+- [Como usar:](#como-usar)
 
 <a name="o-que---o-ft_printf"></a>
 #### O que é o ft_printf?
@@ -12,7 +12,7 @@ Eu tentei implementar o máximo possível do original e também alguns extras qu
 
 <a name="como-usar"></a>
 #### Como usar:
-Para compilar, use o comando `make` na pasta que clonou. Isso vai compilar **ibftprintf.a**. Para usar, iclua `ft_printf.h` nos includes do seu programa e use do mesmo jeito que o printf:
+Para compilar, use o comando `make` na pasta que clonou. Isso vai compilar **libftprintf.a**. Para usar, iclua `ft_printf.h` nos includes do seu programa e use do mesmo jeito que o printf:
 
 ```c
 #include "ft_printf.h"
