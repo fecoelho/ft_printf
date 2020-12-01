@@ -7,8 +7,8 @@ Because I'm tired of using putnbr and putstr
 
 <a name="o-que---o-ft_printf"></a>
 #### O que é o ft_printf?
-Este projeto visa reconstruir a biblioteca `printf` com funcionalidades básicas.
-Eu tentei implementar o máximo possível do original e também alguns extras que eu achei interessantes.
+É um projeto da [42 São Paulo](https://www.42sp.org.br/) que visa reconstruir a biblioteca `printf` com funcionalidades básicas.
+Eu tentei implementar o máximo possível do original e também alguns extras que achei interessantes.
 
 <a name="como-usar"></a>
 #### Como usar:
